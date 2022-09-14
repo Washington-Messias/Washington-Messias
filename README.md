@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Washington-Messias
 - 👀 
-- 🌱 atualmente estou aprendendo HTML e Java Script
+- 🌱Estudante web
 - 💞️ Procuro colaborar com toda forma de código 
 - 📫 
 
